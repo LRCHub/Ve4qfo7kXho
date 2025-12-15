@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Propane Nightmares",
+  "base_artist": "Pendulum",
+  "createdAt": "2025-12-15T12:42:02.030960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Propane Nightmares",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/01_Propane_Nightmares_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Propane Nightmares (original version)",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/02_Propane_Nightmares_(original_version)_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Propane Nightmares (radio edit)",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/03_Propane_Nightmares_(radio_edit)_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Propane Nightmares",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/04_Propane_Nightmares_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Propane Nightmares (Celldweller remix)",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/05_Propane_Nightmares_(Celldweller_remix)_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Propane Nightmares - Celldweller remix",
+      "artist": "Pendulum",
+      "has_synced": false,
+      "path": "select/06_Propane_Nightmares_-_Celldweller_remix_Pendulum.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Propane Nightmares - Celldweller Remix",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/07_Propane_Nightmares_-_Celldweller_Remix_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Propane Nightmares (Grabbitz Remix)",
+      "artist": "Pendulum",
+      "has_synced": false,
+      "path": "select/08_Propane_Nightmares_(Grabbitz_Remix)_Pendulum.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Propane Nightmares (VIP remix)",
+      "artist": "Pendulum",
+      "has_synced": false,
+      "path": "select/09_Propane_Nightmares_(VIP_remix)_Pendulum.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Propane Nightmares (VIP mix)",
+      "artist": "Pendulum",
+      "has_synced": false,
+      "path": "select/10_Propane_Nightmares_(VIP_mix)_Pendulum.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Propane Nightmares (V.I.P.)",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/11_Propane_Nightmares_(V.I.P.)_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Propane Nightmares (V.I.P. Remix)",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/12_Propane_Nightmares_(V.I.P._Remix)_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Propane Nightmares (VIP Remix)",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/13_Propane_Nightmares_(VIP_Remix)_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Propane Nightmares (album version)",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/14_Propane_Nightmares_(album_version)_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Propane Nightmares - Grabbitz Remix",
+      "artist": "Pendulum feat. Grabbitz",
+      "has_synced": true,
+      "path": "select/15_Propane_Nightmares_-_Grabbitz_Remix_Pendulum_feat._Grabbitz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Propane Nightmares (Grabbitz remix)",
+      "artist": "Grabbitz",
+      "has_synced": true,
+      "path": "select/16_Propane_Nightmares_(Grabbitz_remix)_Grabbitz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Propane Nightmares - Live at Brixton Academy",
+      "artist": "Pendulum",
+      "has_synced": false,
+      "path": "select/17_Propane_Nightmares_-_Live_at_Brixton_Academy_Pendulum.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Propane Nightmares",
+      "artist": "Pendulum",
+      "has_synced": false,
+      "path": "select/pl_01_Propane_Nightmares_Pendulum.txt"
+    }
+  ]
+}
